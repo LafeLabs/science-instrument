@@ -1,6 +1,4 @@
-# science-instrument
+# [science-instrument](https://github.com/LafeLabs/science-instrument)
 
-$$
-\frac{-\hbar^2}{2m}\nabla^2\Psi
-$$
-
+ - [plots.md](plots.md)
+ - [index.html](index.html)
