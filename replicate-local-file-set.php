@@ -13,16 +13,12 @@ foreach($file_set as $value){
 
 
 ?>
-<a href = "index.html">CLICK ME(3/3)</a>
+<a href = "index.html">index.html</a>
 <style>
 body{
-    background-color:BLACK;
-    font-family:Comic Sans MS;
     font-size:3em;
 }
 a{
-        font-size:3em;
-        color:#ff2cb4;
-
+    font-size:3em;
 }
 </style>
