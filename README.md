@@ -1,2 +1,6 @@
 # science-instrument
-science instrument
+
+$$
+\frac{-\hbar^2}{2m}\nabla^2\Psi
+$$
+
