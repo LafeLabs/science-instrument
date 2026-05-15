@@ -104,7 +104,7 @@ function loadplots(){
         for(var index = 0;index < plots.length;index++) {
             var newimg = document.createElement("IMG");
             newimg.src = "plots/" + plots[index];
-            plotsmd += "![](plots/" + plots[index] + ")\n";
+            plotsmd += "![](plots/" + plots[index] + ")\n\n";
             document.getElementById("image-feed").appendChild(newimg);
         }    
     }
